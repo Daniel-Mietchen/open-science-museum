@@ -22,6 +22,14 @@ This file collects information about initiatives that cover some aspects of an o
 ## Digital museums
 
 ### Data museums
+* Basic idea in [Content Curation for Research: A Framework for Building a “Data Museum”](https://doi.org/10.2218/ijdc.v10i2.355)
+* Examples:
+  - https://www.kansascityfed.org/research/cadre/dataservices/datamuseum 
+  - http://datamuseum.dk/ 
+  - http://www.datamuseet.se/ 
+* Similar thoughts
+  - http://www.wilkeningconsulting.com/datamuseum 
+  - http://blogs.sas.com/content/datamanagement/2013/09/16/the-master-data-museum/ 
 
 ## Other digital collections
 
