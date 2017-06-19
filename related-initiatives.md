@@ -23,6 +23,7 @@ This file collects information about initiatives that cover some aspects of an o
 
 ### Data museums
 * Basic idea in [Content Curation for Research: A Framework for Building a “Data Museum”](https://doi.org/10.2218/ijdc.v10i2.355)
+  - > Curating content for researchers is not unlike curating a museum exhibit. Although the “rooms” or “exhibits” might be digital, they could showcase premier research on a topic, highlight the development of thinking over history in a particular area, emphasize data sets typically or traditionally used for research in an area, identify methodologies used in that research, and provide code or tools useful for researchers in that field. A room dedicated to labor economics, for example, could highlight papers on wage inequality, unemployment and search, or any other area of the field. It could provide information on both the macro- and microdata available in this area and show how other researchers have used them. Furthermore, the room could provide algorithms, logic, or code to assist with common data problems, such as the challenges of working with complicated data collections. As new research evolves, the room could highlight new methodologies, theories, or data sources. **For researchers looking for cutting edge opportunities, the exhibit could also provide insight into what types of research have not yet been carried out.**
 * I have reserved http://data-museum.org/ .
 * Examples of initiatives using the term "data museum":
   - https://www.kansascityed.org/research/cadre/dataservices/datamuseum 
