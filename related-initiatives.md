@@ -28,7 +28,7 @@ This file collects information about initiatives that cover some aspects of an o
 * Examples of initiatives using the term "data museum":
   - https://www.kansascityed.org/research/cadre/dataservices/datamuseum 
   - http://datamuseum.dk/ &mdash; Dansk Datahistorisk Forening (DDHF)
-    - they've done a [market analysis](http://datamuseum.dk/foreningen/dansk-datamuseum/), which projected losses for their envisioned Danish Computer History Museum
+    - they've done a [feasibility analysis](http://datamuseum.dk/foreningen/dansk-datamuseum/), which projected losses for their envisioned Danish Computer History Museum
     - they also have a [wiki](http://datamuseum.dk/wiki/Forside)
   - http://www.datamuseet.se/ 
 * Similar thoughts
