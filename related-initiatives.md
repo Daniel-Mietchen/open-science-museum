@@ -25,9 +25,10 @@ This file collects information about initiatives that cover some aspects of an o
 * Basic idea in [Content Curation for Research: A Framework for Building a “Data Museum”](https://doi.org/10.2218/ijdc.v10i2.355)
 * I have reserved http://data-museum.org/ .
 * Examples of initiatives using the term "data museum":
-  - https://www.kansascityfed.org/research/cadre/dataservices/datamuseum 
-  - http://datamuseum.dk/ 
-    - they've done a market analysis, which projected losses for their envisioned Danish Computer History Museum
+  - https://www.kansascityed.org/research/cadre/dataservices/datamuseum 
+  - http://datamuseum.dk/ &mdash; Dansk Datahistorisk Forening (DDHF)
+    - they've done a [market analysis](http://datamuseum.dk/foreningen/dansk-datamuseum/), which projected losses for their envisioned Danish Computer History Museum
+    - they also have a [wiki](http://datamuseum.dk/wiki/Forside)
   - http://www.datamuseet.se/ 
 * Similar thoughts
   - http://www.wilkeningconsulting.com/datamuseum 
