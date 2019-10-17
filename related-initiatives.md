@@ -36,6 +36,7 @@ This file collects information about initiatives that cover some aspects of an o
   - http://blogs.sas.com/content/datamanagement/2013/09/16/the-master-data-museum/ 
 * Sample exhibits
   - see [notes on data archaeology](https://github.com/Daniel-Mietchen/datascience/blob/master/data-archaeology.md)
+  - data from the [Scholarly orphans](https://myresearch.institute/about/) project
   - some version of the Excel sheet problems from [Reinhart–Rogoff](https://en.wikipedia.org/wiki/Growth_in_a_Time_of_Debt), perhaps applied to data from/ about the museum visitors
 
 ## Other digital collections
