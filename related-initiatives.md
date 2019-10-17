@@ -35,6 +35,9 @@ This file collects information about initiatives that cover some aspects of an o
   - http://www.wilkeningconsulting.com/datamuseum 
   - http://blogs.sas.com/content/datamanagement/2013/09/16/the-master-data-museum/ 
 
+* sample exhibits
+  - some version of the Excel sheet problems from [Reinhart–Rogoff](https://en.wikipedia.org/wiki/Growth_in_a_Time_of_Debt), perhaps applied to data from/ about the museum visitors
+
 ## Other digital collections
 
 ### Open knowledge collections
