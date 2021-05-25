@@ -38,6 +38,7 @@ This file collects information about initiatives that cover some aspects of an o
   - see [notes on data archaeology](https://github.com/Daniel-Mietchen/datascience/blob/master/data-archaeology.md)
   - data from the [Scholarly orphans](https://myresearch.institute/about/) project
   - some version of the Excel sheet problems from [Reinhart–Rogoff](https://en.wikipedia.org/wiki/Growth_in_a_Time_of_Debt), perhaps applied to data from/ about the museum visitors
+  - Inge Lehmann's [discovery of the Earth's inner core based on analyses of earthquake seismographic data](http://web.archive.org/web/20210525013512/https://www.amnh.org/learn-teach/curriculum-collections/earth-inside-and-out/inge-lehmann-discoverer-of-the-earth-s-inner-core)
 
 ## Other digital collections
 
