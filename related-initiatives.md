@@ -46,6 +46,10 @@ This file collects information about initiatives that cover some aspects of an o
 
 #### [OpenGLAM](https://openglam.org/)
 
+### Museum of failure
+
+* [Museum of Failure](https://museumoffailure.com/)
+
 # [Open Science exhibition](https://docs.google.com/document/d/16lbODAFmHeeHLUeHWO9fG96elKlR8uGHEqQKvh2ktzA/edit#)
 
 - Emerging ideas on organizing an Open Science exhibition, showcasing use and beauty of #opendata
